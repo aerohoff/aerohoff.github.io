@@ -1,0 +1,5 @@
+title: aerohoff
+theme: minima
+
+include:
+  - .well-known
